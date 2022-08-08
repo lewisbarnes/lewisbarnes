@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React and Next.js
 
-![lewisbarnes' GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisbarnes)
+![lewisbarnes' GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisbarnes&show_icons=true&theme=dark)
 
 <!---
 lewisbarnes/lewisbarnes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
