@@ -2,8 +2,6 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React, TypeScript and Next.js
 
-![lewisbarnes' GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisbarnes&show_icons=true&theme=dark)
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V1EFNI8)
 
 <!---
