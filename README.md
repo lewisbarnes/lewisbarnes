@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lewisbarnes
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React, TypeScript and Next.js
+- 🌱 I’m currently learning React and TypeScript
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V1EFNI8)
 
